@@ -1,0 +1,2 @@
+this is a sample text to see if this works
+This is to check the committing of changes
